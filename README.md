@@ -18,7 +18,9 @@ Compliance Support: Identify areas for increased surveillance for better risk-ba
 # Technical Stack
 
 Language: Python
+
 Data Manipulation: pandas, numpy 
+
 Data visualization: matplotlib, seaborn
 
 # Methodology & Insights
